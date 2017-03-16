@@ -1,0 +1,8 @@
+[Service]
+name=docker-sks
+unittest_cmd=true
+accept_cmd=true
+service_port=11371
+
+[Dependencies]
+Environment_name
